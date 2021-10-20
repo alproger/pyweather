@@ -1,6 +1,7 @@
 # pyweather
 
 __Get weather information with python__
+<hr>
 
 <h3>Installed libraries :</h3> 
 
