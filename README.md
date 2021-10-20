@@ -10,6 +10,7 @@ __Get weather information with python__
 <h3>Used API</h3>
 
 * https://openweathermap.org/
+<hr>
 
 <h3>Templete request to call </h3>
 
