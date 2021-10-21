@@ -26,4 +26,4 @@ __Get weather information with python__
 <b>pyweather</b> is programm for getting weather information of anthor counties. User must input city name to get weather information.
  
 
-
+<br>
