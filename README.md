@@ -1,6 +1,7 @@
 # pyweather
 
 __Get weather information with python__
+<hr>
 
 <h3>Installed libraries :</h3> 
 
@@ -9,6 +10,7 @@ __Get weather information with python__
 <h3>Used API</h3>
 
 * https://openweathermap.org/
+<hr>
 
 <h3>Templete request to call </h3>
 
@@ -24,4 +26,4 @@ __Get weather information with python__
 <b>pyweather</b> is programm for getting weather information of anthor counties. User must input city name to get weather information.
  
 
-
+<br>
