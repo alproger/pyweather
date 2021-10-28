@@ -12,6 +12,8 @@ def getWeather(cityName):
     '''
     base_url = f'https://api.openweathermap.org/data/2.5/weather?appid={_API_KEY}&q={cityName}'
 
+    url = f'http://api.openweathermap.org/data/2.5/weather?q={cityName}&appid={_API_KEY}&units=metric'
+
     weatherData = requests.get(base_url).json()
     
     pprint(weatherData)
