@@ -7,7 +7,7 @@ __Get weather information with python__
 
 * `requests`
 
-<h3>Used API</h3>
+<h3>Used API Service</h3>
 
 * https://openweathermap.org/
 <hr>
